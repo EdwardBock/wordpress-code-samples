@@ -1,1 +1,2 @@
-# wordpress-code-samples
+# WordPress Code Samples
+
